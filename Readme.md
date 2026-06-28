@@ -96,6 +96,8 @@ Add screenshots of:
 * Chatbot Testing
 * Architecture Diagram
 
+![Chatbot Architecture Diagram](ChatbotArchitecture_diagram.png)
+
 ## Future Improvements
 
 * Add more companies
